@@ -1,4 +1,4 @@
-package sessionstore
+package store
 
 import (
 	"errors"
