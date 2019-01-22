@@ -13,8 +13,8 @@ github.com/spf13/cast v1.3.0/go.mod h1:Qx5cxh0v+4UWYiBimWS+eyWzqEqokIECu5etghLkU
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/tidwall/gjson v1.1.5/go.mod h1:c/nTNbUr0E0OrXEhq1pwa8iEgc2DOt4ZZqAt1HtCkPA=
 github.com/tidwall/match v1.0.1/go.mod h1:LujAq0jyVjBy028G1WhWfIzbpQfMO8bBZ6Tyb0+pL9E=
-github.com/vicanso/cod v0.0.0-20190119082619-cad58998b746 h1:L8bGvmK/xQhRz4DUohq4xdelxqfBhRzH8wfmPnLgteU=
-github.com/vicanso/cod v0.0.0-20190119082619-cad58998b746/go.mod h1:pxQno2OHjGZXguQWqZvAkCy54SdfM/aGUEAHZM5AfHM=
+github.com/vicanso/cod v0.0.0-20190121154122-4a109b8f76c2 h1:z7tPeGVPL0hPqgG10tdl81cOUNZj/yRC7T58tluukOo=
+github.com/vicanso/cod v0.0.0-20190121154122-4a109b8f76c2/go.mod h1:pxQno2OHjGZXguQWqZvAkCy54SdfM/aGUEAHZM5AfHM=
 github.com/vicanso/cookies v0.0.0-20190117141217-8bbfb5f4e139 h1:NyC9bGOhRg5mCqKV6YGt5jy2N9VCeVemELfkLUr/HGA=
 github.com/vicanso/cookies v0.0.0-20190117141217-8bbfb5f4e139/go.mod h1:uOj7MzTLCjN0CgRKvur1cRZCyDpsqB4jcuBsw+u2AGE=
 github.com/vicanso/fresh v0.1.1/go.mod h1:gr1RKSFxQ1OnQHzUMBHCigifni7KrXveJjWCTlPjICA=
