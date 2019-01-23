@@ -115,6 +115,11 @@ func (s *Store) SetOptions(opts *Options) {
 	s.opts = opts
 }
 
+// SetContext set context
+func (s *Store) SetContext(ctx *cod.Context) {
+	s.ctx = ctx
+}
+
 // GetTTL get ttl of session
 func (s *Store) GetTTL() time.Duration {
 	return s.opts.TTL

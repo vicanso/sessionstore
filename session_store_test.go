@@ -37,8 +37,8 @@ func TestGetID(t *testing.T) {
 				Key:           sessionKey,
 				CookieOptions: &cookies.Options{},
 			},
-			ctx: ctx,
 		}
+		s.SetContext(ctx)
 		if s.GetID() != sessionID {
 			t.Fatalf("get id fail")
 		}
